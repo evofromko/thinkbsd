@@ -1,2 +1,2 @@
 # thinkbsd
-ThinkPad BSD 
+My BSD setup 
